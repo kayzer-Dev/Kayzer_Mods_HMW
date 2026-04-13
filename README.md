@@ -38,7 +38,7 @@ La structure finale doit ressembler à ceci :
 HMW/
 └── user_scripts/
     └── mp/
-        └── no_block.gsc
+        └── exemple.gsc
 ```
 
 Chaque mod est un fichier `.gsc` indépendant — tu peux en activer plusieurs à la fois en plaçant plusieurs fichiers dans ce dossier.
