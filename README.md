@@ -50,6 +50,8 @@ Chaque mod est un fichier `.gsc` indépendant — tu peux en activer plusieurs �
 | Mod | Fichier | Description |
 |---|---|---|
 | No Block | `no_block.gsc` | Supprime la collision entre les joueurs — plus de blocage face à un allié ou un ennemi |
+| Specialist MW3 | `specialist_MW3/specialist_MW3.gsc` | Mode Spécialiste — atouts débloqués progressivement par palier de kills |
+| Specialist MW3 Streaks | `specialist_MW3/specialist_MW3_streaks.gsc` | Mode Spécialiste complet — atouts + killstreaks + nuke à 25 kills |
 
 ---
 
